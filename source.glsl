@@ -9,8 +9,8 @@
 // colors
 const vec3 skyColor = vec3( 0.4, 0.2, 1.0 );
 const vec3 sunColor = vec3(2.0, 2.0, 0.5); // vec3( 0.8, 0.8, 0.2 );
-const vec3 evenSquareColor = vec3( 0.4, 0.1, 0.3 );
-const vec3 oddSquareColor = vec3( 0.7, 0.7, 0.4);
+const vec3 evenSquareColor = vec3( 0.7, 0.5, 0.6 );
+const vec3 oddSquareColor = vec3( 0.7, 0.7, 0.7);
 const vec3 sphereColor = vec3( 0.0, 0.9, 0.1 );
 
 // normals
